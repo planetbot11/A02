@@ -1,7 +1,7 @@
 # A02 — Git + GitHub + WebStorm Tutorial
-Seungyeop Hong (UCID: 31593103)
+Seungyeop Hong (UCID: sh864)
 
-**Repository URL:** https://github.com/31593103/A02
+**Repository URL:** https://github.com/sh864/A02
 
 ---
 
